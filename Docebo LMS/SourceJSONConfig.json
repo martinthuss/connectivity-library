@@ -4,7 +4,7 @@
       "Authentication": {
         "OAuth": {
           "Query": {
-            "RefreshUrl": "htts://<<ENTER_YOUR_LMS>>.docebosaas.com/oauth2/token",
+            "RefreshUrl": "https://<<ENTER_YOUR_LMS>>.docebosaas.com/oauth2/token",
             "Method": "POST",
             "Parameters": {
               "grant_type": {
